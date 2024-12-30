@@ -1,4 +1,4 @@
-run = "cd backend && pip install -r requirements.txt && python main.py"
+run = "bash start.sh"
 language = "python3"
 entrypoint = "backend/main.py"
 
@@ -6,5 +6,5 @@ entrypoint = "backend/main.py"
 channel = "stable-22_11"
 
 [deployment]
-run = ["sh", "-c", "cd backend && python main.py"]
+run = ["sh", "-c", "bash start.sh"]
 deploymentTarget = "cloudrun"
