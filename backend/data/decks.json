@@ -1,0 +1,26 @@
+{
+  "2b0f000d-2c9b-4f6e-82aa-eb6bf60e5762": {
+    "id": "2b0f000d-2c9b-4f6e-82aa-eb6bf60e5762",
+    "name": "study",
+    "description": "study",
+    "is_public": true,
+    "created_at": "2024-12-29T00:44:37.661060",
+    "updated_at": "2024-12-29T00:44:37.661060"
+  },
+  "ef038b7a-a513-44c7-bd09-0dad583c1a54": {
+    "id": "ef038b7a-a513-44c7-bd09-0dad583c1a54",
+    "name": "study 13",
+    "description": "Study 13",
+    "is_public": true,
+    "created_at": "2024-12-29T12:22:06.222242",
+    "updated_at": "2024-12-29T12:22:06.222242"
+  },
+  "08fbbdda-f77d-4454-9c95-337ab374bbd9": {
+    "id": "08fbbdda-f77d-4454-9c95-337ab374bbd9",
+    "name": "study9",
+    "description": "this is study 9",
+    "is_public": true,
+    "created_at": "2024-12-29T20:26:48.075376",
+    "updated_at": "2024-12-29T20:26:48.075376"
+  }
+}

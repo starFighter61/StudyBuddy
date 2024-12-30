@@ -1,0 +1,139 @@
+{
+  "404dc9aa-7272-40b6-823e-3a7687789e57": {
+    "id": "404dc9aa-7272-40b6-823e-3a7687789e57",
+    "question": "Why is the sky blue?",
+    "answer": {
+      "answer": "The sky is blue due to the scattering of sunlight by the atmosphere. The blue color of the sky is the result of a particular type of scattering called Rayleigh scattering. Blue light is scattered more than other colors because it travels as shorter, smaller waves. When we look towards the sky, we see this blue color because the short-wavelength light is blue in color and is scattered from all parts of the sky.",
+      "explanation": "Sunlight reaches Earth's atmosphere and is scattered in all directions by the gases and particles in the air. Blue light is scattered in all directions due to its short wave length. This phenomenon is known as Rayleigh scattering [1][3]."
+    },
+    "type": "true_false",
+    "deck_id": "2b0f000d-2c9b-4f6e-82aa-eb6bf60e5762",
+    "created_at": "2024-12-29T00:44:55.017710",
+    "updated_at": "2024-12-29T22:40:12.667747",
+    "total_reviews": 15,
+    "correct_reviews": 15,
+    "accuracy": 100.0
+  },
+  "24c9965e-6a97-407c-b0f3-0e015b5a4ce8": {
+    "id": "24c9965e-6a97-407c-b0f3-0e015b5a4ce8",
+    "question": "What is mathmatics?",
+    "answer": {
+      "options": [
+        "The study of quality, structure, space, and change",
+        "The study of numbers, formulas and related structures",
+        "The science and study of quality, structure, space, and change",
+        "The study of space, change, quantity, and structure"
+      ],
+      "correct_answer": "The science and study of quality, structure, space, and change",
+      "explanation": "Mathematics encompasses a broad range of areas, but at its core, it is the science and study of quality, structure, space, and change. This is confirmed by source [2] and also aligns with the information provided in source [3]. While source [1] lists specific areas of mathematics, the definition in option 3 encompasses these areas while also providing a more comprehensive description."
+    },
+    "type": "multiple_choice",
+    "deck_id": "2b0f000d-2c9b-4f6e-82aa-eb6bf60e5762",
+    "created_at": "2024-12-29T12:02:40.710431",
+    "updated_at": "2024-12-29T20:03:44.038581",
+    "total_reviews": 0,
+    "correct_reviews": 0,
+    "accuracy": 0
+  },
+  "66788305-f117-4cdc-bae7-00121fb638fa": {
+    "id": "66788305-f117-4cdc-bae7-00121fb638fa",
+    "question": "Why is the sky blue?",
+    "answer": {
+      "answer": "The sky is blue because blue light is scattered more than other colors due to its shorter, smaller waves [1][3].",
+      "explanation": "The phenomenon is known as Rayleigh scattering. When sunlight travels through the Earth's atmosphere, it interacts with air molecules and tiny particles, such as dust and water droplets. Shorter wavelengths of light, specifically blue and violet, scatter more than longer wavelengths, but our eyes are more sensitive to blue light and less sensitive to violet light. Additionally, sunlight reaches us more from the blue part of the spectrum, rather than the violet part. As a result, we see the sky as blue most of the time."
+    },
+    "type": "fill_in_blank",
+    "deck_id": "ef038b7a-a513-44c7-bd09-0dad583c1a54",
+    "created_at": "2024-12-29T12:44:25.996672",
+    "updated_at": "2024-12-29T21:18:56.209350",
+    "total_reviews": 6,
+    "correct_reviews": 6,
+    "accuracy": 100.0
+  },
+  "b7b666f2-6212-43c5-878d-e7f61b067b51": {
+    "id": "b7b666f2-6212-43c5-878d-e7f61b067b51",
+    "question": "What is mathmatics?",
+    "answer": {
+      "options": [
+        "The study of numbers, formulas and related structures",
+        "The science and study of quality, structure, space, and change",
+        "The study of space, change, quantity, and structure",
+        "The study of formulas and related structures"
+      ],
+      "correct_answer": "The science and study of quality, structure, space, and change",
+      "explanation": "Mathematics is defined as the science and study of quality, structure, space, and change. This includes number theory, algebra, geometry and many other areas of study [2]."
+    },
+    "type": "multiple_choice",
+    "deck_id": "ef038b7a-a513-44c7-bd09-0dad583c1a54",
+    "created_at": "2024-12-29T20:14:45.332214",
+    "updated_at": "2024-12-29T20:14:45.332214",
+    "total_reviews": 3,
+    "correct_reviews": 1,
+    "accuracy": 33.33333333333333,
+    "last_reviewed": "2024-12-29T20:15:41.314377",
+    "difficulty_score": 3
+  },
+  "6ca5e862-ca90-465b-8efd-308bef69508d": {
+    "id": "6ca5e862-ca90-465b-8efd-308bef69508d",
+    "question": "what is the beautiful game?",
+    "answer": {
+      "answer": "The term 'The Beautiful Game' is often used to refer to the sport of Association football [1]. Additionally, 'The Beautiful Game' is also a 2024 British sports drama film directed by Thea Sharrock and written by Frank Cottrell-Boyce [3].",
+      "explanation": "The term 'The Beautiful Game' is a common nickname for football, expressing the joy, skill, and aesthetic appeal that fans and players alike associate with the sport. The 2024 film of the same name is a separate usage of the term, referring to a specific cinematic production."
+    },
+    "type": "fill_in_blank",
+    "deck_id": "08fbbdda-f77d-4454-9c95-337ab374bbd9",
+    "created_at": "2024-12-29T20:27:12.214446",
+    "updated_at": "2024-12-29T20:36:46.137371",
+    "total_reviews": 0,
+    "correct_reviews": 0,
+    "accuracy": 0
+  },
+  "0a497001-c7ac-4379-a6e2-acf2ec1090d7": {
+    "id": "0a497001-c7ac-4379-a6e2-acf2ec1090d7",
+    "question": "Who is Steve Miller the rock and roller?",
+    "answer": {
+      "options": [
+        "A musician who was inducted into the Rock and Roll Hall of Fame in 2020",
+        "A musician who criticized the Rock and Roll Hall of Fame after his induction in 2016",
+        "A music critic who has been critical of the Rock and Roll Hall of Fame",
+        "A musician who refused induction into the Rock and Roll Hall of Fame"
+      ],
+      "correct_answer": "A musician who criticized the Rock and Roll Hall of Fame after his induction in 2016",
+      "explanation": "Steve Miller is a musician who was inducted into the Rock and Roll Hall of Fame in 2016. After his induction, he criticized the organization for only giving him two tickets and charging $10,000 for any additional ones [2]. This shows that he was not a critic who refused induction, nor was he inducted in 2020."
+    },
+    "type": "multiple_choice",
+    "deck_id": "08fbbdda-f77d-4454-9c95-337ab374bbd9",
+    "created_at": "2024-12-29T20:28:01.467725",
+    "updated_at": "2024-12-29T20:28:49.919571",
+    "total_reviews": 0,
+    "correct_reviews": 0,
+    "accuracy": 0
+  },
+  "339e84db-4823-40bd-a522-5d0e5bdd141a": {
+    "id": "339e84db-4823-40bd-a522-5d0e5bdd141a",
+    "question": "My age is important to my mental health",
+    "answer": {
+      "answer": "Yes, your age can be important to your mental health",
+      "explanation": "Mental health issues can manifest at any age, from childhood to old age. Concerns and struggles can change or develop as one ages. For instance, young people, like the daughter mentioned in the web search [1], often discuss mental health issues, reflecting a growing awareness and prevalence of these issues in this age group. In adults, long-term mental health struggles can ultimately impact physical health, as seen in the 42-year-old individual who was diagnosed with a serious heart condition after 50 years of mental health issues [2]. Furthermore, the mental health of infants is closely tied to their emotional, cognitive, and social development, and is dependent on a loving bond or attachment [3]."
+    },
+    "type": "true_false",
+    "deck_id": "08fbbdda-f77d-4454-9c95-337ab374bbd9",
+    "created_at": "2024-12-29T20:29:54.489875",
+    "updated_at": "2024-12-29T20:29:54.489875",
+    "total_reviews": 0,
+    "correct_reviews": 0,
+    "accuracy": 0
+  },
+  "7d41b229-4183-4e95-81a2-eacf77bea510": {
+    "id": "7d41b229-4183-4e95-81a2-eacf77bea510",
+    "question": "is ths sky blue?",
+    "answer": "{\"answer\": \"Yes\", \"explanation\": \"The sky appears blue because of a process called Rayleigh scattering. When the Sun's light reaches Earth's atmosphere, it is made up of different colors that have different wavelengths. Shorter wavelengths (like blue and violet) are scattered more than longer wavelengths (like red, orange, and yellow). However, although violet light is scattered more than blue light, the sky appears blue to us rather than violet because our eyes are more sensitive to blue light and because sunlight reaches us more from the blue part of the spectrum, rather than the violet part. Additionally, some of the violet light gets absorbed by the ozone layer in the atmosphere [1][3].\"}",
+    "type": "true_false",
+    "deck_id": "2b0f000d-2c9b-4f6e-82aa-eb6bf60e5762",
+    "created_at": "2024-12-29T22:40:45.374912",
+    "updated_at": "2024-12-29T22:40:45.374912",
+    "total_reviews": 0,
+    "correct_reviews": 0,
+    "accuracy": 0
+  }
+}
